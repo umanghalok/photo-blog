@@ -16,11 +16,11 @@ nav {
     padding: 2px;
     width: 20%;
     font-family: 'Courier New', Courier, monospaces;
-    font-weight: 700px;
+    font-weight: 600px;
 }
 
 button {
-    color: red;
+    color: blue;
     align-items: auto;
     background-color: aqua;
     border: 2px solid;
