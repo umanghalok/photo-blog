@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background: url(https://images.unsplash.com/photo-1665114787255-a559ae289d36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+
+img {
+    width: 30%;
+    margin: 1.66%;
+}
+
+nav {
+    font-size: 50px;
+    margin-left: 1.66%;
+    margin-top: 0.83%;
+    padding: 2px;
+    width: 20%;
+    font-family: 'Caveat', cursive;
+    font-weight: 700px;
+}
+
+button {
+    color: #ffa260;
+    align-items: auto;
+    background-color: #b1bacf;
+    border: 2px solid;
+    font-size: 1em;
+    padding: 1em 2em;
+    transition: color 0.25s, border-color 0.25s transform 0.25s box-shadow 0.25s;
+    margin-left: 1.66%;
+    margin-top: 1.66%;
+    font-family: 'Caveat', cursive;
+    font-weight: 700px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Caveat', cursive;
+    font-weight: 700px;
+    font-size: 30px;
+}
+
+button:hover {
+    color: #ffffff;
+    border-color: #f1ff5c;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translateY(-0.25em);
+    cursor: pointer
+}
