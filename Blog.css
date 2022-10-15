@@ -5,7 +5,7 @@ body {
 }
 
 img {
-    width: 30%;
+    width: 32%;
     margin: 1.66%;
 }
 
@@ -16,14 +16,14 @@ nav {
     padding: 2px;
     width: 20%;
     font-family: 'Courier New', Courier, monospaces;
-    font-weight: 700px;
+    font-weight: 600px;
 }
 
 button {
-    color: red;
+    color: blue;
     align-items: auto;
     background-color: aqua;
-    border: 2px solid;
+    border: 2px dotted;
     font-size: 1em;
     padding: 1em 2em;
     transition: color 0.25s, border-color 0.25s transform 0.25s box-shadow 0.25s;
