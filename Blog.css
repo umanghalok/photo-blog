@@ -15,12 +15,12 @@ nav {
     margin-top: 0.83%;
     padding: 2px;
     width: 20%;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospaces;
     font-weight: 700px;
 }
 
 button {
-    color: #ffa260;
+    color: red;
     align-items: auto;
     background-color: aqua;
     border: 2px solid;
