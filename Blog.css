@@ -20,9 +20,9 @@ nav {
 }
 
 button {
-    color: #ffa260;
+    color: #3edb39;
     align-items: auto;
-    background-color: #b1bacf;
+    background-color: #0a0a0a;
     border: 2px solid;
     font-size: 1em;
     padding: 1em 2em;
@@ -41,7 +41,7 @@ a {
 }
 
 button:hover {
-    color: #ffffff;
+    color: #ded954;
     border-color: #f1ff5c;
     box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
     transform: translateY(-0.25em);
