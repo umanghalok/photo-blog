@@ -31,6 +31,7 @@ button {
     margin-top: 1.66%;
     font-family: 'Caveat', cursive;
     font-weight: 700px;
+    border-radius: 20px;
 }
 
 a {
